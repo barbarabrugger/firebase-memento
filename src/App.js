@@ -71,7 +71,7 @@ function App() {
       setCards(shuffle);
     }
 
-  }, [cards, wins]);
+  }, [cards, setBadge, wins]);
 
   return (
     <>
