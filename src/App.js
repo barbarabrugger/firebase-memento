@@ -1,5 +1,4 @@
-import React from 'react';
-import { useState } from 'react/cjs/react.production.min';
+import React, {useState} from 'react';
 import './App.css';
 import shuffle from "./utilities/shuffle";
 
